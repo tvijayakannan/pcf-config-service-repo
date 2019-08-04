@@ -1,0 +1,1 @@
+cf create-service p-config-server trial branding-configs -c config-server-setting.json

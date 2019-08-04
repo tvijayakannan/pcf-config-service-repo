@@ -1,0 +1,13 @@
+{
+  "git": {
+    "uri": "https://github.com/tvijayakannan/config-server-demo-app1.git",
+    "repos": {
+      "lookup": {
+        "uri": "https://github.com/tvijayakannan/config-server-demo-app1.git"
+      },
+      "account": {
+        "uri": "https://github.com/tvijayakannan/config-server-demo-app2.git"
+      }
+    }
+  }
+}
